@@ -7,9 +7,7 @@
 
 # DMF Swap App
 
-The <strong>Swap App</strong> is a groundbreaking platform in the MLM and crypto industries. It challenges the traditional MLM space with fairness and transparency, offering users a revolutionary, modern system that rewards global participation without past negativity. 
-
-The app reallocates swap fees to users while backing its DMF utility token with XLM, ensuring real value. With a first-in-the-world Treasury Refund mechanism, DMF enables users to burn tokens while receiving refunds, mitigating volatility and supporting stability, scalability, and fairness. 
+The DMF Swap App redefines token ecosystems and referral programs by prioritizing transparency, fair value distribution, and sustainable growth. Unlike traditional swap apps or referral programs, DMF tokens provide clear utility and are backed by a growing treasury. The app facilitates effortless token swaps and encourages community involvement through its referral system. By holding DMF tokens, users can earn Organization Perks across eight levels, ensuring a fair and rewarding experience for all participants.
 
 ## Core Objectives
 
