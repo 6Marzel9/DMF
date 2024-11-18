@@ -15,11 +15,11 @@ The DMF Swap App redefines token ecosystems and referral programs by prioritizin
 
 * <strong>Real-Time Updates and Account Tracking:</strong> The app provides real-time tracking of all transactions, with detailed visibility into swap operations.
 
-* <strong>Blockchain Verification:</strong> Every transaction and operation are fully transparent and verifiable on the Stellar blockchain.
+* <strong>Blockchain Verification:</strong> Every transaction and operation is fully transparent and verifiable on the Stellar blockchain.
 
 * <strong>Fair and Minimal Fees:</strong> Fees collected from swaps contribute to referral allocations and Treasury growth while maintaining minimal user costs.
 
-* <strong>Value Stability</strong>: Automated supply management and integration with the Treasury ensure DMF token stability over time.
+* <strong>Value Stability</strong>:  Automated supply management and integration with the Treasury ensure DMF token stability over time.
 
 # Licensing and notifications
 
@@ -56,7 +56,7 @@ Added Corporation Perks and DMF token information fields to improve visibility a
 Developed a dedicated API routing module to fetch account information, bypassing the Stellar SDK to avoid disruptions to xBull’s multi-structural operations. 
 
 **Independent DMF Ecosystem Modules:**
-The DMF Minting, Trading, and Treasury modules are fully segregated and operate independently from the xBull infrastructure, ensuring modular integrity and seamless performance. 
+The DMF Minting, Trading, Backend, and Treasury modules are fully segregated and operate independently from the xBull infrastructure, ensuring modular integrity and seamless performance. 
 
 **Mainnet Deployment:**
 All modifications and module development have been executed on the Stellar mainnet to ensure reliable real-world operability. 
